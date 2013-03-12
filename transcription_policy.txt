@@ -1,0 +1,45 @@
+
+The following description of the transcription and encoding policy followed by CELL during research for 'The Diplomatic Correspondence of Thomas Bodley' has been supplied by the Principal Investigator, Dr Robyn Adams. 
+
+
+
+
+The XML mark-up defines the structure of the letter transcript, of which the main elements are: the editorial summary; the address leaf, within which are the superscription, sign manual, endorsement(s) and any later notes and additions; and the letter transcript itself, within which may be a postscript, subscription and any later notes and additions.
+
+Rationale
+---------
+The aim has been to produce transcripts that are clean, accurate, accessible and faithful; they must also conform to a consistent policy and be suitable for online searching.
+
+‘Clean’ requires that the transcripts should not be overly cluttered with editorial commentary that intervenes in the text. ‘Accurate’ requires the transcripts to have been checked a minimum of four times by at least two different project members who have examined the XML as well as its outputs. ‘Accessible’ refers to the necessity that online outputs conform with current accessiblity standards as defined by the W3C. ‘Faithful’ means that the transcripts should reflect and record the content of the original document including any meaningful features of its visual or material make-up that are potentially significant for its interpretation.
+
+In order to achieve all of these, the following guidelines have been followed.
+
+Editorial note
+--------------
+At the head of each letter is an editorial note. This contains a record of any unusual features of the letter’s appearance or copying.
+
+Spelling and punctuation
+------------------------
+Transcriptions follow the original spelling, word and line spacing and punctuation of the letters, apart from u/v, i/j and Ff/ff, which have been modernized (although in Latin phrases, ‘i’ has been retained rather than amended to ‘j’). The standard Roman alphabet has been used. Special symbols and additional characters (ampersand, apostrophe, asterisk, caret, dagger, emdash, endash and quotation marks) are encoded using the appropriate character entity codes according to Unicode standards. Transcripts are in UTF-8.
+
+Contractions
+------------
+Standard contractions used by Bodley and his correspondents have been expanded and tagged, for example, Mat[ie, ye, y, ies, yes, s] > Majestie, Sr > Sir, etc. These are regular features of the letters and their expansion fulfils our aim that the transcripts be ‘clean’, ‘accessible’, readable texts without loss of information valuable to interpretation. This aspect of regularization also improves the searchability of the letters. However, readers are able to view the letters with the contracted word forms if they so wish, and it is envisaged that the scholarly community and students of early modern letter-writing will find this feature of the edition valuable to their individual research needs.
+
+Abbreviations that have been retained include: B (Bishop), C (Count), D (Duke), E (Earl), Exci (Excellenc(ie/y)), H (Honorable), K (King), L, LL, Lp, Lps (Lord(s), Lordship(s)), P (Prince), Q (Queen), R (Right). Duplicate abbreviated capitals, or those which might hinder easy reading, include E(lector), Archb(ishop). These have been silently expanded. Where possible names have been expanded where they are contracted, for example, Tho: (Thomas), Ch. (Charles). Where Bodley signs himself as Tho: the contraction has been retained.
+
+Changes of script and hand
+--------------------------
+XML mark-up records changes of script and hand within the transcript. Where known, the writer's name has been assigned to a hand. The corpus exhibits various hands. Bodley’s hand is a clear, consistent italic. Many copies of his letters exist in the British Library Cotton manuscripts, a significant number of which are scribal. These copies are in a crabbed, compact secretary hand. Later in his embassy, Bodley acts as his own scribe and his hand adjusts accordingly, becoming more crabbed, and using significantly more contractions. A wide range of scribal hands feature elsewhere in the correspondence, mainly in the letters from Sir Francis Walsingham, and the correspondence and instructions between the Privy Council, Queen Elizabeth, and Bodley.
+
+Emphasis, underlining, or deletions
+-----------------------------------
+XML mark-up is used to record any sections of text that have been emphasized visually in some way by the scribe, i.e. underlined or deleted. In the output XHTML transcripts, deletions are struck through if the deleted word is legible to the transcriber. If the word is illegible or has been completely expunged, this is represented by square brackets. In the XHTML transcripts, emphasized text is indicated with italics and underlined text with underlining.
+
+Spatial layout
+--------------
+XML mark-up records the following features of the spatial layout of letters: the use of paragraphs; line breaks; lists; the start of a new folio page. Bodley’s letters uniformly begin at the top-left of the folio page, leaving a gap of about an inch. Where a letter diverges from this practice a note has been entered in the editorial note at the head of the letter. No attempt has been made to present a literal replication of these kinds of spatial anomalies.
+
+Marginalia
+----------
+Many of Bodley’s letters, both incoming and outgoing, contain marginalia (notes, amendments and annotations in the margins of the manuscript). Marginalia is transcribed in full at the point in the text to which it refers. XML mark-up identifies this as marginalia, and records the author (if known) and the position on the page where it appears.
