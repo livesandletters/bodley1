@@ -1,0 +1,220 @@
+<transcript>
+<page num="1">
+<addressleaf id="4399">
+<folioref id="0857">
+fol.254v
+</folioref>
+ 
+<section id="0869" Section="endorsement" Place="none">
+<hand id="0866" type="Bodley" Description="">
+To my L. T
+<overline id="0863" replace="resure">
+re
+</overline>
+r N
+<abbreviation id="0860" replace="ovember">
+o
+</abbreviation>
+ 6 1591
+</hand>
+</section>
+<newline/>
+<folioref id="0749">
+fol.254r
+</folioref>
+ 
+<section id="0758" Section="lateraddition" Place="top_left">
+Belgia 1591 6 Novem
+<abbreviation id="0755" replace="ber">
+b
+</abbreviation>
+ To my L. Trea
+<abbreviation id="0752" replace="surer">
+s
+</abbreviation>
+</section>
+<newline/>
+<section id="0765" Section="lateraddition" Place="none">
+Belgia: 1591: No
+<abbreviation id="0762" replace="vember">
+v
+</abbreviation>
+</section>
+</addressleaf>
+<lettertext id="0853"><newline/>
+May it please 
+yo
+<super id="0770" replace="ur">
+r
+</super>
+ good L. by letters intercepted, by certaine of 
+<image name="thorn"/>
+e garrison of 
+<place id="3500" place_id="Bergen op Zoom">
+Berghen
+<newline/>
+up Zoome
+</place>
+, written from 
+<place id="3503" place_id="Rome">
+Rome
+</place>
+ from 
+<image name="thorn"/>
+e College of Cardinals, to 
+<image name="thorn"/>
+e 
+<person id="3506" person_id="Parma, A">
+D. of Parma
+</person>
+<newline/>
+<image name="thorn"/>
+e 
+<person id="3509" person_id="Lorraine, Charles">
+D. de 
+<highlight id="0814" Type="italic">
+Maine,
+</highlight>
+</person>
+ 
+<person id="3512" person_id="Montemarciano">
+<highlight id="0808" Type="italic">
+Montemarciano
+</highlight>
+</person>
+ General of 
+<image name="thorn"/>
+e 
+<person id="3515" person_id="Gregory, Pope">
+Popes
+</person>
+ army, 
+<person id="3518" person_id="Landriano">
+Landriano
+</person>
+<newline/>
+<image name="thorn"/>
+e Popes 
+<highlight id="0811" Type="italic">
+Nuntio,
+</highlight>
+ and to 
+<image name="thorn"/>
+e Citie of 
+<place id="3521" place_id="Paris">
+Paris,
+</place>
+ it should appeere 
+<image name="thorn"/>
+at 
+<image name="thorn"/>
+e
+<newline/>
+College was perplexed upon 
+<image name="thorn"/>
+e Popes deceasse, who died the 15 of Oct
+<abbreviation id="0786" replace="ober">
+o
+</abbreviation>
+<newline/>
+lest some alteration should happen to their prejudice in 
+<place id="8086" place_id="France">
+Fraunce.
+</place>
+ Wheru
+<missing id="0791" type="erosion">
+pon
+</missing>
+<newline/>
+<image name="thorn"/>
+e next daie after 
+<image name="thorn"/>
+e death of 
+<image name="thorn"/>
+e Pope, they dispatched sundrye letters
+<newline/>
+to 
+<image name="thorn"/>
+e aforenamed parties, full of encouragement to persist in their courses,
+<newline/>
+and to trust upon continuance of relief from Rome. I have sent yo
+<super id="0800" replace="ur">
+r
+</super>
+ L.
+<newline/>
+<image name="thorn"/>
+e Copie of their letters to Paris, and to 
+<highlight id="0817" Type="italic">
+Marsilio Landriano
+</highlight>
+. The rest to
+<newline/>
+<image name="thorn"/>
+e D. of Parma, de Maine &amp;c. &amp; because 
+<image name="thorn"/>
+e differ very littell from those 
+<image name="thorn"/>
+at
+<newline/>
+I send, I have left uncopied. Of the Emperors peacemakers,
+<newline/>
+<image name="thorn"/>
+e last occurrence 
+<image name="thorn"/>
+at we had, was of their sending to the D. of Parma, for
+<newline/>
+3 Cornets of horse to conduct them to 
+<place id="3527" place_id="Brussels">
+Brussels.
+</place>
+ I have moved 
+<person id="3530" person_id="Maurice">
+Count
+<newline/>
+<highlight id="0831" Type="italic">
+Maurice,
+</highlight>
+</person>
+ who is greatly opposite to 
+<image name="thorn"/>
+at Treaty, to cause some companies
+<newline/>
+of horse of that garrison in Berghen and 
+<place id="3533" place_id="Breda">
+Breda,
+</place>
+ to lie in waite for their
+<newline/>
+comming, and under pretext of seeking 
+<image name="thorn"/>
+e Enemye, to finde those Ambassado
+<super id="0837" replace="">
+rs
+</super>
+.
+<newline/>
+The Count hath not only promised to doe it, but hath given order already
+<newline/>
+for 700 horse to be imploied to that purpose. Howbeit it is a matter
+<newline/>
+concealed from the 
+<person id="3536" person_id="Council of State">
+Councel of State
+</person>
+, for 
+<image name="thorn"/>
+at he thinkes among many, it
+<newline/>
+may be ether discovered, or through doubtes and delaies, be cleane broken of.
+<newline/>
+<section id="0850" Section="subscription" Place="none">
+Hage 6 N
+<abbreviation id="0847" replace="ovember">
+o
+</abbreviation>
+ 1591.
+</section>
+</lettertext>
+</page>
+</transcript>

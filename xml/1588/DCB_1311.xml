@@ -1,0 +1,998 @@
+<transcript>
+<page num="1">
+<addressleaf id="0200">
+<folioref id="0497">
+fol.274v
+</folioref>
+<section id="0503" Section="endorsement" Place="none">
+Cipher for M
+<super id="0583" replace="aster">
+r
+</super>
+ Bodley. 28 November 
+<underline id="0500">
+1588:
+</underline>
+</section>
+ 
+<section id="0590" Section="lateraddition" Place="none">
+[.]
+</section>
+</addressleaf>
+<lettertext id="0201">
+<folioref id="0009">
+fol.273r
+</folioref>
+ 
+<section id="0018" Section="lateraddition" Place="none">
+Belgia 1588 28 November 
+<missing id="0015" type="erosion">
+C
+</missing>
+ipher M
+<super id="0012" replace="aster">
+r
+</super>
+ Bodly
+</section>
+<newline/>
+<cols id="0440">
+<col id="0336" Align="Left">
+pi
+<newline/>
+a.
+</col>
+<newline/>
+<col id="0339" Align="Left">
+o
+<newline/>
+b.
+</col>
+<newline/>
+<col id="0342" Align="Left">
+T
+<newline/>
+c.
+</col>
+<newline/>
+<col id="0345" Align="Left">
+10
+<newline/>
+d.
+</col>
+<newline/>
+<col id="0355" Align="Left">
+<drawing id="0437">
+minuscule delta
+</drawing>
+<newline/>
+e.
+</col>
+<newline/>
+<col id="0358" Align="Left">
+<drawing id="0434">
+horizontal T, pointing left
+</drawing>
+<newline/>
+f.
+</col>
+<newline/>
+<col id="0383" Align="Left">
+19
+<newline/>
+g.
+</col>
+<newline/>
+<col id="0386" Align="Left">
++
+<newline/>
+h.
+</col>
+<newline/>
+<col id="0389" Align="Left">
+12.
+<newline/>
+i.
+</col>
+<newline/>
+<col id="0392" Align="Left">
+<drawing id="0428">
+horizontal T, pointing right
+</drawing>
+<newline/>
+k.
+</col>
+<newline/>
+<col id="0395" Align="Left">
+k
+<newline/>
+l.
+</col>
+<newline/>
+<col id="0398" Align="Left">
+14
+<newline/>
+m.
+</col>
+<newline/>
+<col id="0401" Align="Left">
+s
+<newline/>
+n.
+</col>
+<newline/>
+<col id="0404" Align="Left">
+15
+<newline/>
+o.
+</col>
+<newline/>
+<col id="0416" Align="Left">
+<drawing id="0431">
+minuscule lambda
+</drawing>
+<newline/>
+p.
+</col>
+<newline/>
+<col id="0419" Align="Left">
+16
+<newline/>
+q.
+</col>
+<newline/>
+<col id="0422" Align="Left">
+17
+<newline/>
+r.
+</col>
+<newline/>
+<col id="0425" Align="Left">
+v
+<newline/>
+s.
+</col>
+</cols>
+<newline/>
+<cols id="0484">
+<col id="0462" Align="Left">
+3
+<newline/>
+t.
+</col>
+<newline/>
+<col id="0465" Align="Left">
+<drawing id="0456">
+elongated 0
+</drawing>
+<newline/>
+v.
+</col>
+<newline/>
+<col id="0468" Align="Left">
+<drawing id="0453">
+minuscule theta
+</drawing>
+<newline/>
+w.
+</col>
+<newline/>
+<col id="0471" Align="Left">
+13
+<newline/>
+x.
+</col>
+<newline/>
+<col id="0474" Align="Left">
+18
+<newline/>
+y.
+</col>
+<newline/>
+<col id="0481" Align="Left">
+<drawing id="0478">
+twin lobed flower with stem curving to bottom left
+</drawing>
+<newline/>
+z.
+</col>
+</cols>
+<newline/>
+a c p 
+<image name="blank"/>
+ Nulls
+<newline/>
+<newline/>
+<cols id="0589">
+<col id="0584" Align="Left">
+A
+<newline/>
+P
+<newline/>
+C
+<newline/>
+D
+<newline/>
+G
+<newline/>
+E
+<newline/>
+R
+<newline/>
+Q
+<newline/>
+F
+<newline/>
+J
+<newline/>
+K
+<newline/>
+O
+<newline/>
+M
+<newline/>
+N
+<newline/>
+S
+<newline/>
+T
+<newline/>
+V
+</col>
+<newline/>
+<col id="0065" Align="Right">
+<place id="0594" place_id="England">
+England
+</place>
+<newline/>
+<place id="0598" place_id="France">
+France
+</place>
+<newline/>
+<place id="0601" place_id="Spain">
+Spaine
+</place>
+<newline/>
+<place id="0604" place_id="Germany">
+Germany
+</place>
+<newline/>
+<place id="0607" place_id="Denmark">
+Denmark
+</place>
+<newline/>
+<place id="0610" place_id="Scotland">
+Scotland
+</place>
+<newline/>
+<place id="0613" place_id="Estland">
+Esteland
+</place>
+<newline/>
+<place id="0616" place_id="East Friesland">
+Estfrizland
+</place>
+<newline/>
+<place id="0619" place_id="West Friesland">
+Westfrizland
+</place>
+<newline/>
+<place id="0622" place_id="Holland">
+Holland
+</place>
+<newline/>
+<place id="0625" place_id="Zeeland">
+Zelland
+</place>
+<newline/>
+<place id="0628" place_id="Gueldres">
+Gueldres
+</place>
+<newline/>
+<place id="0631" place_id="Flanders">
+Flanders
+</place>
+<newline/>
+<place id="0634" place_id="Brabant">
+Brabant
+</place>
+<newline/>
+<place id="0637" place_id="Artois">
+Artoys
+</place>
+<newline/>
+<place id="0640" place_id="Hainaut">
+Heynalt
+</place>
+<newline/>
+<place id="0643" place_id="Italy">
+Itally
+</place>
+</col>
+</cols>
+<newline/>
+<cols id="0288">
+<col id="0128" Align="Left">
+<drawing id="0064">
+back to back 'c's with line through
+</drawing>
+<newline/>
+<drawing id="0072">
+omega
+</drawing>
+<newline/>
+<image name="gold"/>
+<newline/>
+<drawing id="0078">
+'w' with line across top
+</drawing>
+<newline/>
+<drawing id="0082">
+bottom and right sides of square
+</drawing>
+<newline/>
+<drawing id="0095">
+bottom and left sides of square
+</drawing>
+<newline/>
+<drawing id="0087">
+8 not joined at top, with stem
+</drawing>
+<newline/>
+<drawing id="0091">
+square with top side missing
+</drawing>
+<newline/>
+<drawing id="0101">
+top and left sides of square
+</drawing>
+<newline/>
+<drawing id="0104">
+square
+</drawing>
+<newline/>
+<drawing id="0107">
+top and right sides of square
+</drawing>
+<newline/>
+<drawing id="0111">
+square with right side missing
+</drawing>
+<newline/>
+<drawing id="0114">
+florelegium
+</drawing>
+<newline/>
+<drawing id="0118">
+star/asterisk
+</drawing>
+<newline/>
+#
+<newline/>
+<image name="triangle"/>
+<newline/>
+<drawing id="0125">
+curved 'n' with small circles at each end
+</drawing>
+</col>
+<newline/>
+<col id="0149" Align="Right">
+<person id="0646" person_id="Rudolf II">
+Emperor
+</person>
+<newline/>
+<person id="0649" person_id="Elizabeth">
+Q majesty
+</person>
+<newline/>
+<person id="0652" person_id="Henri III">
+French K
+</person>
+<newline/>
+<person id="0655" person_id="Sixtus, Pope">
+Poope
+</person>
+<newline/>
+<person id="0658" person_id="Philip II">
+K of Spain
+</person>
+<newline/>
+<person id="0661" person_id="Medici, Catherine">
+Q mother of fr
+<abbreviation id="0593" replace="ance">
+a
+</abbreviation>
+</person>
+<newline/>
+<person id="0664" person_id="Navarre">
+K of Navar
+</person>
+<newline/>
+<person id="0667" person_id="James VI">
+K of Scots
+</person>
+<newline/>
+<person id="0670" person_id="Guise, Henry">
+D of Guise
+</person>
+<newline/>
+<person id="0673" person_id="Parma, A">
+D of Parma
+</person>
+<newline/>
+<person id="0676" person_id="Antonio, Portugal">
+K of Portingal
+</person>
+<newline/>
+<person id="0679" person_id="Manuel, Portugal">
+D Emanuel
+</person>
+ his son
+<newline/>
+<person id="0682" person_id="Casimir">
+D Casamir
+</person>
+<newline/>
+Reitters
+<newline/>
+Lansquenechts 
+<newline/>
+<image name="thorn"/>
+e 
+<place id="0685" place_id="Spain">
+Sp
+<abbreviation id="0596" replace="ain">
+a
+</abbreviation>
+</place>
+ Camp
+<newline/>
+<person id="0688" person_id="Mendoza">
+Don Bernardino de Mendoza
+</person>
+</col>
+</cols>
+<newline/>
+<cols id="0291">
+<col id="0197" Align="Left">
+<drawing id="0151">
+circle with horizontal I through
+</drawing>
+<newline/>
+<drawing id="0155">
+bottom and right sides of square with dot on each side of the vertical
+</drawing>
+<newline/>
+<drawing id="0159">
+bottom and left sides of square with dot on each side of the vertical
+</drawing>
+<newline/>
+<drawing id="0168">
+square with right side missing, with dot on each side of the vertical
+</drawing>
+<newline/>
+<drawing id="0172">
+top and left sides of square with dot on each side of the vertical
+</drawing>
+<newline/>
+<drawing id="0165">
+square with top side missing with dot on each side of the left vertical
+</drawing>
+<newline/>
+<drawing id="0176">
+8 not joined at top
+</drawing>
+<newline/>
+<drawing id="0180">
+cross with lines across each end
+</drawing>
+<newline/>
+<drawing id="0184">
+vertical line with dot on each side
+</drawing>
+<newline/>
+<image name="iron"/>
+<newline/>
+<drawing id="0190">
+= but wavy
+</drawing>
+<newline/>
+<drawing id="0194">
+box with dot on each side of left vertical
+</drawing>
+</col>
+<newline/>
+<col id="0218" Align="Right">
+<person id="0692" person_id="Maurice">
+Count Maurice
+</person>
+<newline/>
+<person id="0695" person_id="Hohenlo">
+Count Hohenlo
+</person>
+<newline/>
+<person id="0698" person_id="Neuenahr">
+Count Nieuenar
+</person>
+<newline/>
+<person id="0701" person_id="States General">
+The States g
+<overline id="0204" replace="enera">
+nr
+</overline>
+l
+</person>
+<newline/>
+<person id="0704" person_id="Council of State">
+Councel of Stat
+</person>
+<newline/>
+<person id="0707" person_id="Villiers">
+Villiers
+</person>
+<newline/>
+<person id="0710" person_id="Aldegonde">
+S
+<super id="0210" replace="">
+t
+</super>
+ Aldigonde
+</person>
+<newline/>
+Paul Buys
+<newline/>
+<person id="0713" person_id="Oldenbarnvelt">
+Barnevelt
+</person>
+<newline/>
+<person id="0716" person_id="Schenck, M">
+Skinck
+</person>
+<newline/>
+<person id="0719" person_id="Deventer">
+Deventer
+</person>
+<newline/>
+<person id="0722" person_id="Sonoy">
+Sonoy
+</person>
+</col>
+</cols>
+<newline/>
+<cols id="0323">
+<col id="0278" Align="Left">
+<underline id="0222">
+30
+</underline>
+<newline/>
+<underline id="0226">
+40
+</underline>
+<newline/>
+<underline id="0230">
+50
+</underline>
+<newline/>
+<drawing id="0238">
+circle with cross through
+</drawing>
+<newline/>
+<underline id="0235">
+70
+</underline>
+<newline/>
+<newline/>
+<drawing id="0243">
+left diagonal with two circles on bottom end
+</drawing>
+<newline/>
+<drawing id="0247">
+cross with lines across each end, with circle in centre
+</drawing>
+<newline/>
+<drawing id="0251">
+vertical line with circle over top half
+</drawing>
+<newline/>
+<drawing id="0255">
+square with left side missing, with dot on each side of the vertical
+</drawing>
+<newline/>
+<drawing id="0259">
+crescent moon with left side absent
+</drawing>
+<newline/>
+<drawing id="0263">
+top and right sides of square with dot on each side of the vertical
+</drawing>
+<newline/>
+<drawing id="0267">
+ladder with two double rungs, tilting right
+</drawing>
+<newline/>
+<drawing id="0271">
+see picture
+</drawing>
+<newline/>
+<drawing id="0275">
+arrow pointing upper right with semi circle crossing through bottom end
+</drawing>
+</col>
+<newline/>
+<col id="0320" Align="Right">
+<person id="0725" person_id="Burghley">
+L Tre
+<overline id="0281" replace="surer">
+r
+</overline>
+</person>
+<newline/>
+<person id="0737" person_id="Hatton">
+L Chancelor
+</person>
+<newline/>
+<person id="0728" person_id="Lord Admiral Howard">
+L Admiral
+</person>
+<newline/>
+<person id="0731" person_id="Sackville, T">
+L Buckhurst
+</person>
+<newline/>
+<person id="0734" person_id="Walsingham">
+S
+<super id="0290" replace="ir">
+r
+</super>
+ Francis Walsingham
+</person>
+<newline/>
+<newline/>
+<person id="0740" person_id="Bertie, P">
+L Willoughby
+</person>
+<newline/>
+<person id="0851" person_id="Burgh, T">
+L Burough
+</person>
+<newline/>
+<person id="0743" person_id="Russell, W">
+S
+<super id="0305" replace="ir">
+r
+</super>
+ William Russel
+</person>
+<newline/>
+<person id="0746" person_id="Shirley, T">
+S
+<super id="0308" replace="ir">
+r
+</super>
+ Thomas Shurley
+</person>
+<newline/>
+<person id="0749" person_id="Conway, J">
+S
+<super id="0311" replace="ir">
+r
+</super>
+ John Conway
+</person>
+<newline/>
+<person id="0752" person_id="Drury, W">
+S
+<super id="0314" replace="ir">
+r
+</super>
+ William Drurey
+</person>
+<newline/>
+<person id="0755" person_id="Morgan, T">
+S
+<super id="0317" replace="ir">
+r
+</super>
+ Thomas Morgan
+</person>
+<newline/>
+English horsebands
+<newline/>
+English footbandes
+</col>
+</cols>
+<newline/>
+<newline/>
+<cols id="0536">
+<col id="0520" Align="Left">
+<place id="0727" place_id="Venice">
+Venice
+</place>
+<newline/>
+<place id="0732" place_id="Milan">
+Milan
+</place>
+<newline/>
+<place id="0736" place_id="Rome">
+Rome
+</place>
+<newline/>
+<place id="0741" place_id="Livorno">
+Livorno
+</place>
+<newline/>
+<place id="0745" place_id="Naples">
+Naples
+</place>
+<newline/>
+<place id="0750" place_id="Paris">
+Paris
+</place>
+<newline/>
+<place id="0754" place_id="Parma">
+Parma
+</place>
+<newline/>
+<place id="0758" place_id="Ancona">
+Ancona
+</place>
+<newline/>
+33
+<newline/>
+34
+</col>
+<newline/>
+<col id="0533" Align="Right">
+<place id="0761" place_id="Flushing">
+Vlassing
+</place>
+<newline/>
+<place id="0764" place_id="Brill">
+Briel
+</place>
+<newline/>
+<place id="0767" place_id="Sluis">
+Sluis
+</place>
+<newline/>
+<place id="0770" place_id="Ostend">
+Ostend
+</place>
+<newline/>
+<place id="0773" place_id="Middelburg">
+Midleburg
+</place>
+<newline/>
+<place id="0776" place_id="Utrecht">
+Utrecht
+</place>
+<newline/>
+<place id="0779" place_id="Bergen op Zoom">
+Bergen
+</place>
+<newline/>
+<place id="0782" place_id="Hague">
+Hage
+</place>
+<newline/>
+<place id="0785" place_id="Delft">
+Delfe
+</place>
+<newline/>
+<place id="0788" place_id="Dort">
+Dort
+</place>
+</col>
+</cols>
+<newline/>
+<cols id="0563">
+<col id="0560" Align="Left">
+24
+<newline/>
+25
+<newline/>
+45
+<newline/>
+49
+<newline/>
+27
+<newline/>
+55
+<newline/>
+39
+<newline/>
+43
+<newline/>
+42
+</col>
+<newline/>
+<col id="0557" Align="Right">
+<place id="0791" place_id="Kampen">
+Campen
+</place>
+<newline/>
+<place id="0794" place_id="Zwolle">
+Swol
+</place>
+<newline/>
+<place id="0797" place_id="Deventer">
+Deventer
+</place>
+<newline/>
+<place id="0800" place_id="Zutphen">
+Zutphen
+</place>
+<newline/>
+<place id="0803" place_id="Wiesel">
+Wiesel
+</place>
+<newline/>
+<place id="0806" place_id="Arnhem">
+Arnham
+</place>
+<newline/>
+<place id="0809" place_id="Amsterdam">
+Amsterdam
+</place>
+<newline/>
+<place id="0812" place_id="Enkhuizen">
+Enchusen
+</place>
+<newline/>
+<place id="0815" place_id="Niemegen">
+Nieumegen
+</place>
+</col>
+</cols>
+<newline/>
+<cols id="0588">
+<col id="0574" Align="Left">
+21
+<newline/>
+32
+<newline/>
+37
+<newline/>
+72
+<newline/>
+84
+<newline/>
+90
+<newline/>
+88
+<newline/>
+99
+</col>
+<newline/>
+<col id="0585" Align="Right">
+<place id="0818" place_id="Antwerp">
+Andwerp
+</place>
+<newline/>
+<place id="0821" place_id="Bruges">
+Bruges
+</place>
+<newline/>
+<place id="0824" place_id="Brussels">
+Buxels
+</place>
+<newline/>
+<place id="0827" place_id="Gaunt">
+Gaunt
+</place>
+<newline/>
+<place id="0830" place_id="Namur">
+Namur
+</place>
+<newline/>
+<place id="0833" place_id="Mons">
+Mons
+</place>
+<newline/>
+<place id="0836" place_id="St Omer">
+St Omer
+</place>
+<newline/>
+<place id="0839" place_id="Iperen">
+Iperen
+</place>
+</col>
+</cols>
+<newline/>
+<cols id="0511">
+<col id="0504" Align="Left">
+100
+<newline/>
+200
+<newline/>
+28
+</col>
+<newline/>
+<col id="0508" Align="Right">
+<place id="0842" place_id="Dunkirk">
+Dunkerk
+</place>
+<newline/>
+<place id="0845" place_id="Gravelines">
+Graveling
+</place>
+<newline/>
+<place id="0848" place_id="Emden">
+Embden
+</place>
+</col>
+</cols>
+<newline/>
+<newline/>
+<cols id="0576">
+<col id="0542" Align="Left">
+b
+<newline/>
+at
+</col>
+<newline/>
+<col id="0545" Align="Left">
+d
+<newline/>
+w
+<super id="0517" replace="ith">
+th
+</super>
+</col>
+<newline/>
+<col id="0548" Align="Left">
+f
+<newline/>
+for
+</col>
+<newline/>
+<col id="0551" Align="Left">
+g
+<newline/>
+from
+</col>
+<newline/>
+<col id="0554" Align="Left">
+h
+<newline/>
+to
+</col>
+<newline/>
+<col id="0558" Align="Left">
+m
+<newline/>
+by
+</col>
+<newline/>
+<col id="0562" Align="Left">
+n
+<newline/>
+and
+</col>
+<newline/>
+<col id="0566" Align="Left">
+p
+<newline/>
+the
+</col>
+</cols>
+<newline/>
+<cols id="0579">
+<col id="0569" Align="Left">
+g
+<newline/>
+that
+</col>
+<newline/>
+<col id="0572" Align="Left">
+t
+<newline/>
+w
+<super id="0539" replace="hich">
+ch
+</super>
+</col>
+</cols>
+</lettertext>
+</page>
+</transcript>
